@@ -1,0 +1,17 @@
+G:\Projects\Нарезка квадратов\Нарезка квадратов\bin\Release\Нарезка квадратов.exe.config
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Release\MainWindow.g.cs
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Release\App.g.cs
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Release\Нарезка квадратов_MarkupCompile.cache
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Release\Нарезка квадратов_MarkupCompile.lref
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Release\MainWindow.baml
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Release\Нарезка квадратов.g.resources
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Release\Нарезка_квадратов.Properties.Resources.resources
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Release\Нарезка квадратов.csproj.GenerateResource.Cache
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Release\Нарезка квадратов.exe
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Release\Нарезка квадратов.pdb
+G:\Projects\Нарезка квадратов\Нарезка квадратов\bin\Release\Нарезка квадратов.exe.manifest
+G:\Projects\Нарезка квадратов\Нарезка квадратов\bin\Release\Нарезка квадратов.application
+G:\Projects\Нарезка квадратов\Нарезка квадратов\bin\Release\Нарезка квадратов.exe
+G:\Projects\Нарезка квадратов\Нарезка квадратов\bin\Release\Нарезка квадратов.pdb
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Release\Нарезка квадратов.exe.manifest
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Release\Нарезка квадратов.application

@@ -1,0 +1,46 @@
+c:\users\user\documents\visual studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\bin\Debug\Нарезка квадратов.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\bin\Debug\Нарезка квадратов.exe
+c:\users\user\documents\visual studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\bin\Debug\Нарезка квадратов.pdb
+c:\users\user\documents\visual studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов.g.resources
+c:\users\user\documents\visual studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка_квадратов.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов.exe
+c:\users\user\documents\visual studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов.pdb
+G:\Projects\Нарезка квадратов\Нарезка квадратов\bin\Debug\Нарезка квадратов.exe.config
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов.exe
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов.pdb
+G:\Projects\Нарезка квадратов\Нарезка квадратов\bin\Debug\Нарезка квадратов.exe
+G:\Projects\Нарезка квадратов\Нарезка квадратов\bin\Debug\Нарезка квадратов.pdb
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов.csprojResolveAssemblyReference.cache
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\MainWindow.g.cs
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\App.g.cs
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов_MarkupCompile.cache
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов_MarkupCompile.lref
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\MainWindow.baml
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов.g.resources
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка_квадратов.Properties.Resources.resources
+G:\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов.csproj.GenerateResource.Cache
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\bin\Debug\Нарезка квадратов.exe.config
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов.exe
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов.pdb
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\bin\Debug\Нарезка квадратов.exe.manifest
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\bin\Debug\Нарезка квадратов.application
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\bin\Debug\Нарезка квадратов.exe
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\bin\Debug\Нарезка квадратов.pdb
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\MainWindow.g.cs
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\App.g.cs
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов_MarkupCompile.cache
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов_MarkupCompile.lref
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\MainWindow.baml
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов.g.resources
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка_квадратов.Properties.Resources.resources
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов.csproj.GenerateResource.Cache
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов.exe.manifest
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов.application
+D:\Документы\Visual Studio 2015\Projects\Нарезка квадратов\Нарезка квадратов\obj\Debug\Нарезка квадратов.csprojResolveAssemblyReference.cache
