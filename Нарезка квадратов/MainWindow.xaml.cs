@@ -80,12 +80,12 @@ namespace Нарезка_квадратов
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            for (int im = 0; im < 10; im++)
+            for (int im = 0; im < listFiles.Length; im++)
             {
                 table = new System.Drawing.Bitmap(1281, 1025);
                 gfxTable = System.Drawing.Graphics.FromImage(table);
                 canvas.Children.Clear();
-                //risCanvas();
+                risCanvas();
                 Directory.CreateDirectory(putSave + @"\Level" + int.Parse(textBoxLevel.Text));
                 file = new StreamWriter(putSave + @"\Level" + int.Parse(textBoxLevel.Text) + @"\Level" + int.Parse(textBoxLevel.Text) + ".txt");
 
@@ -185,7 +185,7 @@ namespace Нарезка_квадратов
                 }
 
             //Рисуем на канве
-           /* prjamougolnic = new Rectangle();
+            prjamougolnic = new Rectangle();
             prjamougolnic.Width = 30 * w;
             prjamougolnic.Height = 30 * h;
             prjamougolnic.Stroke = Brushes.Black;
@@ -204,7 +204,7 @@ namespace Нарезка_квадратов
             aPanel.Children.Add(someText);
             myBrush.Visual = aPanel;
             prjamougolnic.Fill = myBrush;
-            canvas.Children.Add(prjamougolnic);*/
+            canvas.Children.Add(prjamougolnic);
 
             //Записываем в файл
             file.Write((j * widthKvadrat + 2) + "," + (i * heightKvadrat + 2)+ ",");
@@ -212,8 +212,8 @@ namespace Нарезка_квадратов
             System.Drawing.Bitmap bmp = Crop(pathImage, w * widthKvadrat - 4, h * heightKvadrat - 4, j * widthKvadrat + 4, i * heightKvadrat + 4);
             bmp.Save(putSave + @"\Level" + textBoxLevel.Text + @"\image" + kol + ".png", System.Drawing.Imaging.ImageFormat.Png);
             bmp.Dispose();
-            //System.Drawing.Pen pen = new System.Drawing.Pen(System.Drawing.Color.Black, 4);
-            //gfxTable.DrawRectangle(pen, new System.Drawing.Rectangle(j * widthKvadrat, i * heightKvadrat, w * widthKvadrat, h * heightKvadrat));
+            System.Drawing.Pen pen = new System.Drawing.Pen(System.Drawing.Color.Black, 4);
+            gfxTable.DrawRectangle(pen, new System.Drawing.Rectangle(j * widthKvadrat, i * heightKvadrat, w * widthKvadrat, h * heightKvadrat));
         }
 
         private void button1_Click(object sender, RoutedEventArgs e)
